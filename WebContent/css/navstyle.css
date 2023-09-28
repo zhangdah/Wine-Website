@@ -1,0 +1,36 @@
+#header{
+    width:100vw;
+    height:50px;
+    background-color:#5A0E32
+}
+a{
+	color:white !important;
+}
+
+.title{
+  font-family: 'DM Serif Display', serif;
+  font-size:24px;
+  color:white !important;
+  padding:10px 10px;
+  float:left;
+
+}
+.nav-bar{
+  float:right;
+  font-size:18px;
+  padding:14px 10px;
+  color:white !important;
+}
+.nav-bar p{
+  display:inline;
+  padding:0px 5px;
+}
+.nav-links{
+	color:white !important;
+}
+.page-title{
+	font-family: 'DM Serif Display';
+	padding:25px;
+    text-align: center;
+}
+
